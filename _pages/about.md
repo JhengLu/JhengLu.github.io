@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a fourth-year Central South University student majoring in Computer Science and Technology. My research interests fall within the Internet of Things (IoT) encompassing machine learning (ML) for IoT, sensor networks, crowdsensing, security, social networks, and wireless networks. I am currently engaged in research under [Prof. Anfeng Liu](https://faculty.csu.edu.cn/liuanfeng/en/index.htm) and [Prof. Neal Xiong](https://dblp.org/pid/x/NaixueXiong.html) that centers around utilizing incentive mechanisms and machine learning technologies to design and build high-quality mobile crowd sensing systems.
-<p>Outside of research, I like to travel, play basketball and guitar, and read books.
+Hello there! I'm Jiaheng Lu, a first-year master's student at the University of Michigan, Ann Arbor, where I'm studying Electrical and Computer Engineering. My academic journey commenced at Central South University, China, where I pursued a bachelor's degree in Computer Science and Technology. I am deeply engrossed in the realms of Cluster Computing, distributed systems, Machine Learning, and the Internet of Things (IoT). 
+<p>Outside of my studies, I like traveling, playing basketball, strumming the guitar, and reading books.
   
