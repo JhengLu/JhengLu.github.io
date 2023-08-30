@@ -35,10 +35,13 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          {% if page.date_1 and page.date_2 %}
-            <p> {{ page.type }}, {{ page.advisor }}, {{ page.date_1 | default: "1900-01-01" | date: "%Y" }}-{{ page.date_2 | default: "1900-01-01" | date: "%Y" }} </p>
+          {% if page.judge == "clear"%}
           {% else %}
-            <p> {{ page.type }}, {{ page.advisor }}, {{ page.date_1 | default: "1900-01-01" | date: "%Y" }} </p>
+            {% if page.date_1 and page.date_2 %}
+              <p> {{ page.type }}, {{ page.advisor }}, {{ page.date_1 | default: "1900-01-01" | date: "%Y" }}-{{ page.date_2 | default: "1900-01-01" | date: "%Y" }} </p>
+            {% else %}
+              <p> {{ page.type }}, {{ page.advisor }}, {{ page.date_1 | default: "1900-01-01" | date: "%Y" }} </p>
+            {% endif %}
           {% endif %}
         {% elsif page.collection == 'portfolio' %}
           <p></p>
