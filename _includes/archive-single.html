@@ -41,8 +41,6 @@
         {% if post.collection == 'teaching' %}
           {% if post.date_1 and post.date_2 %}
             <p> {{ post.type }}, {{ post.advisor }}, {{ post.date_1 | default: "1900-01-01" | date: "%Y" }}-{{ post.date_2 | default: "1900-01-01" | date: "%Y" }} </p>
-          {% elsif post.judge == 'clear' %}
-            <p></p>
           {% else}
             <p> {{ post.type }}, {{ post.advisor }}, {{ post.date_1 | default: "1900-01-01" | date: "%Y" }} </p>
           {% endif %}
