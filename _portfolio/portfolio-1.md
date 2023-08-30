@@ -5,13 +5,12 @@ collection: portfolio
 ---
 
 <h2>Abstract</h2>
-Mobile Crowd Sensing (MSC) is a powerful paradigm of sensing systems, which collects data from workers to build applications. It is vital to identify truthful workers,
-then match sensing data tasks and truthful workers to collect data. We apply matching theory to improve the quality of the MCS system from two aspects, i.e., one is truthful workers discovery, and the other is sensing difference discovery. In the truthful workers discovery phase, we establish an approach to obtain workers' credibility by comparing their report data with Ground Truth Data (GTD) and Sub-GTD. In the sensing difference discovery phase, the workers' sensing quality of different attributes is obtained by comparing Attribute-GTD and Sub-Attribute-GTD. And workers' sensing quality of different locations is attained by the integration of absolute and relative sensing location preference. Combining the two aspects, an effective workers recruitment scheme based on swarm intelligence for MCS, Multi-attribute and Local Matching based Workers Recruitment (MLM-WR), is proposed. MLM-WR utilizes the PSO algorithm to dynamically assign workers. We finally carry out extensive evaluations, where results demonstrate the superiority of our approach over state-of-the-art approaches.
+Mobile Crowd Sensing (MCS) is a cloud-edge-terminal collaboration model that relies on edge terminal devices, or “workers,” to sense data and build applications for cloud-hosted platforms. However, to ensure high-quality application development, recruiting truthful workers in the edge network is crucial. With the emergence of Artificial Intelligence (AI), the Internet of Things (IoT) is entering a new era, known as Artificial Intelligence of Things (AIoT). This paper proposes an AI-enabled MCS system, which includes MLM-WR, a cloud-edge-terminal collaboration data collection scheme for AIoT. MLM-WR leverages swarm intelligence to match truthful workers with sensing tasks, enabling efficient and effective data collection for AIoT applications. The matching theory is applied from two perspectives: truthful workers discovery and sensing difference discovery. To identify truthful workers, we adjust their credibility based on the deviation of their sensing data with Ground Truth Data (GTD) obtained through collaboration with the Unmanned Aerial Vehicle (UAV). In the sensing difference discovery, we obtain workers’ sensing attribute reliability by calculating attribute data errors and incorporate absolute and relative sensing location preferences to determine workers’ sensing quality at different locations. Additionally, MLM-WR employs the Particle Swarm Optimization (PSO) algorithm to assign workers while considering sensing attribute and location reliability and recruitment cost, thus addressing the tradeoff between recruitment cost and data quality. The effectiveness of our approach is demonstrated through extensive evaluations, where MLM-WR outperformed the state-of-the-art approaches.
 
 <br>
 **Materials**
 <ul>
-<li><a href="http://Jiaheng-Lu.github.io/files/paper1.pdf">PDF</a></li>
-<li><a href="https://github.com/MrDeering/MLM-WR">Code</a></li>
+<li><a href="http://JhengLu.github.io/files/MLM-WR.pdf">PDF</a></li>
+<li><a href="https://github.com/JhengLu/MLM-WR">Code</a></li>
 </ul>
 
