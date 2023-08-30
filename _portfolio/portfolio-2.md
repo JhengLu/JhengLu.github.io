@@ -15,6 +15,6 @@ Viterbi algorithm is utilized to get the best sequences. The experiment results 
 <br>
 **Materials**
 <ul>
-<li><a href="http://Jiaheng-Lu.github.io/files/paper2.pdf">PDF</a></li>
-<li><a href="https://github.com/MrDeering/Cause-Effect-Relation-Extraction-from-Text-of-Financial-Events">Code</a></li>
+<li><a href="http://JhengLu.github.io/files/paper2.pdf">PDF</a></li>
+<li><a href="https://github.com/JhengLu/Cause-Effect-Relation-Extraction-from-Text-of-Financial-Events">Code</a></li>
 </ul>
