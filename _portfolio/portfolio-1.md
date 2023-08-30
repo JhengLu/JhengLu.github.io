@@ -1,6 +1,6 @@
 ---
 title: "MLM-WR: An Effective Workers Recruitment Scheme Based on Swarm Intelligence for Mobile Crowd Sensing"
-excerpt: "**Jiaheng Lu**, Zhenze Qu, Anfeng Liu, Shaobo Zhang, Neal N. Xiong and Tian Wang. <br>Under Review in *Computer Networks*"
+excerpt: "**Jiaheng Lu**, Zhenze Qu, Anfeng Liu, Shaobo Zhang, Neal N. Xiong. <br>To appear in *IEEE Internet of Things Journal* (DOI: 10.1109/JIOT.2023.3309959)"
 collection: portfolio
 ---
 
