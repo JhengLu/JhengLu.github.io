@@ -13,7 +13,7 @@ name                     : &name "Jiaheng Lu"
 description              : &description "personal description"
 url                      : https://jiahenglu.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jiaheng-Lu/Jiaheng-Lu.github.io"
+repository               : "JhengLu/JhengLu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiaheng Lu"
   avatar           : "profile.png"
-  bio              : "Undergraduate Student<br> Central South University"
-  location         : "Changsha, Hunan"
+  bio              : "Master's Student<br>University of Michigan"
+  location         : "Ann Arbor, Michigan, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jiahenglu@csu.edu.cn"
+  email            : "jhlu@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MrDeering"
+  github           : "JhengLu"
   google_plus      :
   keybase          :
   instagram        :
