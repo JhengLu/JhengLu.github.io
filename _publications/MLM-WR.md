@@ -1,8 +1,8 @@
 ---
-title: "MLM-WR: An Effective Workers Recruitment Scheme Based on Swarm Intelligence for Mobile Crowd Sensing"
+title: "MLM-WR: A Swarm Intelligence-based Cloud-Edge-Terminal Collaboration Data Collection Scheme in The Era of AIoT"
 collection: publications
 permalink: /publication/MLM-WR
-excerpt: 'Under Review in *Computer Networks*'
+
 ---
 
 
