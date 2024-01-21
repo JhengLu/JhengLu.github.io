@@ -1,7 +1,7 @@
 ---
 title: "Automatic Information Extraction for Financial Events by Integrating BiGRU and Attention Mechanism"
 excerpt: "**Jiaheng Lu** and Weirong Liu. <br>Published in *Journal of Physics: Conference Series*, 2022"
-collection: portfolio
+collection: publications
 ---
 
 <h2>Abstract</h2>

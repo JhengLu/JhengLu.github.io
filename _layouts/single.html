@@ -44,7 +44,7 @@ layout: default
               <p> {{ page.type }}, {{ page.advisor }}, {{ page.date_1 | default: "1900-01-01" | date: "%Y" }} </p>
             {% endif %}
           {% endif %}
-        {% elsif page.collection == 'portfolio' %}
+        {% elsif page.collection == 'publications' %}
           <p></p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
