@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
   
-Hello there!
+Hello!
 
-I'm Jiaheng Lu, a first-year master's student at the University of Michigan, Ann Arbor, studying Electrical and Computer Engineering with a focus on Network, Communication, and Information Systems. 
+I'm Jiaheng Lu, a second-year master's student at the University of Michigan, Ann Arbor, majoring in Electrical and Computer Engineering. My research interests include disaggregated memory, ML systems, ML for systems, and energy efficiency in cloud computing.
 
-I'm fortunate to work with [Prof. Chowdhury](https://www.mosharaf.com/) on QoS-aware multi-tiered memory systems.
+I'm fortunate to work with Prof. Mosharaf Chowdhury on [QoS-aware CXL-enabled tiered memory systems](#link_to_paper), and with Prof. Ang Chen on a [co-simulation framework for the infrastructure nexus](#Link_to_paper).
 
-Previously, I earned a bachelor's degree in Computer Science and Technology from Central South University in China, under the guidance of [Prof. Anfeng Liu](https://faculty.csu.edu.cn/liuanfeng/en/index.htm) and [Prof. Neal N. Xiong](https://srinfo.sulross.edu/fs/1448), focusing on Mobile Crowd Sensing systems. My research interests include Cloud Computing, Cluster Computing, Machine Learning, and the Internet of Things (IoT).
+Previously, I earned a bachelor's degree in Computer Science and Technology from [Central South University](https://en.csu.edu.cn/) in China, where I worked with [Prof. Anfeng Liu](https://scholar.google.com/citations?user=9RDpn1gAAAAJ&hl=zh-CN) and [Prof. Neal N. Xiong](https://srinfo.sulross.edu/fs/1448) on Mobile Crowd Sensing systems.
 
-Beyond my academic pursuits, I enjoy traveling, playing basketball, playing the guitar, and reading books.
+Outside of academics, I enjoy traveling, basketball, guitar, and reading.
