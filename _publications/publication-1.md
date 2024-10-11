@@ -6,6 +6,7 @@ collection: publications
 
 <h2>Abstract</h2>
 OpenInfra is a co-simulation framework for simulating the infrastructure nexus, like the datacenter/energy nexus, datacenter/water nexus, water/energy nexus.
+
 <br>
 **Materials**
 <ul>
