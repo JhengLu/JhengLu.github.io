@@ -1,6 +1,6 @@
 ---
 title: "OpenInfra: A Co-simulation Framework for the Infrastructure Nexus"
-excerpt: "**Jiaheng Lu**, Yunming Xiao, Shmeelok Chakraborty, Silvery Fu, Yoon Sung Ji, Ang Chen, Mosharaf Chowdhury, Nalini Rao, Sylvia Ratnasamy, Xinyu Wang. <br>Published in *HotInfra (SOSP Workshop)*, 2024"
+excerpt: "**Jiaheng Lu**, Yunming Xiao, Shmeelok Chakraborty, Silvery Fu, Yoon Sung Ji, Ang Chen, Mosharaf Chowdhury, Nalini Rao, Sylvia Ratnasamy, Xinyu Wang. <br>*HotInfra (SOSP Workshop)*, 2024"
 collection: publications
 ---
 
