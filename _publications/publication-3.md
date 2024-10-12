@@ -1,25 +1,18 @@
 ---
-title: "Automatic Information Extraction for Financial Events by Integrating BiGRU and Attention Mechanism"
-excerpt: "**Jiaheng Lu** and Weirong Liu. 
-<br>*Journal of Physics: Conference Series, International Conference on Computer, Big Data and Artificial Intelligence*, 2022
-<br>[[Paper](https://iopscience.iop.org/article/10.1088/1742-6596/2171/1/012001)], [[Code](https://github.com/JhengLu/Cause-Effect-Relation-Extraction-from-Text-of-Financial-Events)]"
+title: "MLM-WR: A Swarm Intelligence-based Cloud-Edge-Terminal Collaboration Data Collection Scheme in The Era of AIoT"
+excerpt: "**Jiaheng Lu**, Zhenze Qu, Anfeng Liu, Shaobo Zhang, Neal N. Xiong. 
+<br>*IEEE Internet of Things Journal*, 2023
+<br>[[Paper](https://ieeexplore.ieee.org/document/10234647)], [[Code](https://github.com/JhengLu/MLM-WR)]"
 collection: publications
 ---
 
 <h2>Abstract</h2>
-In this paper, an information extraction method for financial events written in Chinese is proposed. The core entities of the causes and results, as well as the verbs and
-conditions are extracted from the financial events reported by websites. The method takes the original words and the part-of-speech of words as two inputs. BERT encoder is utilized to
-transform the original sentences to word-embedding vectors, which then are send to BiGRU to extract the sematic features. And a full-connected network is overlapped on BiGRU to reduce
-the impact of “covariate shift”. For the second input, the original sentences are cut by Chinese cut-word tool ‘jieba’ to get the part-of-speech of words, which are then transformed by
-self-attention mechanism to get global dependencies. The two outputs for word-embedding vectors and part-of-speech of words are combined and then decoded by CRF. Finally, the
-Viterbi algorithm is utilized to get the best sequences. The experiment results validate the effectiveness of the proposed method.
-
-<br>
-<img src='/images/NLP-arch-new.jpg'>
+Mobile Crowd Sensing (MCS) is a cloud-edge-terminal collaboration model that relies on edge terminal devices, or “workers,” to sense data and build applications for cloud-hosted platforms. However, to ensure high-quality application development, recruiting truthful workers in the edge network is crucial. With the emergence of Artificial Intelligence (AI), the Internet of Things (IoT) is entering a new era, known as Artificial Intelligence of Things (AIoT). This paper proposes an AI-enabled MCS system, which includes MLM-WR, a cloud-edge-terminal collaboration data collection scheme for AIoT. MLM-WR leverages swarm intelligence to match truthful workers with sensing tasks, enabling efficient and effective data collection for AIoT applications. The matching theory is applied from two perspectives: truthful workers discovery and sensing difference discovery. To identify truthful workers, we adjust their credibility based on the deviation of their sensing data with Ground Truth Data (GTD) obtained through collaboration with the Unmanned Aerial Vehicle (UAV). In the sensing difference discovery, we obtain workers’ sensing attribute reliability by calculating attribute data errors and incorporate absolute and relative sensing location preferences to determine workers’ sensing quality at different locations. Additionally, MLM-WR employs the Particle Swarm Optimization (PSO) algorithm to assign workers while considering sensing attribute and location reliability and recruitment cost, thus addressing the tradeoff between recruitment cost and data quality. The effectiveness of our approach is demonstrated through extensive evaluations, where MLM-WR outperformed the state-of-the-art approaches.
 
 <br>
 **Materials**
 <ul>
-<li><a href="https://iopscience.iop.org/article/10.1088/1742-6596/2171/1/012001">Paper</a></li>
-<li><a href="https://github.com/JhengLu/Cause-Effect-Relation-Extraction-from-Text-of-Financial-Events">Code</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/10234647">Paper</a></li>
+<li><a href="https://github.com/JhengLu/MLM-WR">Code</a></li>
 </ul>
+

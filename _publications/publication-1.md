@@ -1,18 +1,28 @@
 ---
-title: "OpenInfra: A Co-simulation Framework for the Infrastructure Nexus"
-excerpt: "**Jiaheng Lu**, Yunming Xiao, Shmeelok Chakraborty, Silvery Fu, Yoon Sung Ji, Ang Chen, Mosharaf Chowdhury, Nalini Rao, Sylvia Ratnasamy, Xinyu Wang. 
-<br>*HotInfra (SOSP Workshop)*, 2024
-<br>[[Paper](https://hotinfra24.github.io/)], [[Code](https://github.com/JhengLu/OpenInfra)]"
+title: "Mercury: QoS-Aware Tiered Memory System"
+excerpt: "**Jiaheng Lu***, Yiwen Zhang*****, Hasan Maruf, Minseo Park, Yunxuan Tang, Rita Gupta, Fan Lai, Mosharaf Chowdhury. 
+<br>In submission to *OSDI*, 2024
+<br>***** Equal contribution
+<br>[[Paper](#)], [[Code](#)]"
 collection: publications
 ---
 
 <h2>Abstract</h2>
-OpenInfra is a co-simulation framework for simulating the infrastructure nexus, like the datacenter/energy nexus, datacenter/water nexus, water/energy nexus.
+Tiered memory systems have widely been adopted to provide larger memory capacity in response to increasing memory demands from memory-intensive workloads.
+Although increased memory capacity allows more applications to be deployed, existing solutions for tiered memory systems are not built with Quality-of-Service (QoS) support.
+As a result, they often cannot meet service-level objectives (SLOs) when multiple applications share a tiered memory system.
+Specifically, applications suffer from **local memory contention** and **memory bandwidth interference**, two sources of performance unpredictability unique to tiered memory systems.
+Indeed, we observe application performance drops by 43\% and 70\% during severe memory contention and interference.
+
+This paper presents Mercury, a QoS-aware tiered memory system that provides predictable performance for coexisting memory-intensive applications, each with different SLOs.
+Mercury enables per-tier page reclamation to enforce application-level resource management.
+It leverages a novel admission control and real-time adaptation algorithm to maximize local memory utilization while mitigating memory interference.
+Evaluations with real-world applications show that Mercury can provide QoS guarantees among multiple applications sharing a tiered memory system with up to 53.4\% improvement in performance.
 
 <br>
 **Materials**
 <ul>
-<li><a href="https://hotinfra24.github.io/">Paper</a></li>
-<li><a href="https://github.com/JhengLu/OpenInfra">Code</a></li>
+<li><a href="#">Paper</a></li>
+<li><a href="https://github.com/SymbioticLab/Mercury">Code</a></li>
 </ul>
 
