@@ -1,6 +1,8 @@
 ---
 title: "MLM-WR: A Swarm Intelligence-based Cloud-Edge-Terminal Collaboration Data Collection Scheme in The Era of AIoT"
-excerpt: "**Jiaheng Lu**, Zhenze Qu, Anfeng Liu, Shaobo Zhang, Neal N. Xiong. <br>*IEEE Internet of Things Journal*, 2023"
+excerpt: "**Jiaheng Lu**, Zhenze Qu, Anfeng Liu, Shaobo Zhang, Neal N. Xiong. 
+<br>*IEEE Internet of Things Journal*, 2023
+<br>[[Paper](https://ieeexplore.ieee.org/document/10234647)], [[Code](https://github.com/JhengLu/MLM-WR)]"
 collection: publications
 ---
 
@@ -10,7 +12,7 @@ Mobile Crowd Sensing (MCS) is a cloud-edge-terminal collaboration model that rel
 <br>
 **Materials**
 <ul>
-<li><a href="https://ieeexplore.ieee.org/document/10234647">PDF</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/10234647">Paper</a></li>
 <li><a href="https://github.com/JhengLu/MLM-WR">Code</a></li>
 </ul>
 

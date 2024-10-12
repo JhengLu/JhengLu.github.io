@@ -1,6 +1,8 @@
 ---
 title: "Automatic Information Extraction for Financial Events by Integrating BiGRU and Attention Mechanism"
-excerpt: "**Jiaheng Lu** and Weirong Liu. <br>*Journal of Physics: Conference Series, International Conference on Computer, Big Data and Artificial Intelligence*, 2022"
+excerpt: "**Jiaheng Lu** and Weirong Liu. 
+<br>*Journal of Physics: Conference Series, International Conference on Computer, Big Data and Artificial Intelligence*, 2022
+<br>[[Paper](https://iopscience.iop.org/article/10.1088/1742-6596/2171/1/012001)], [[Code](https://github.com/JhengLu/Cause-Effect-Relation-Extraction-from-Text-of-Financial-Events)]"
 collection: publications
 ---
 
@@ -15,6 +17,6 @@ Viterbi algorithm is utilized to get the best sequences. The experiment results 
 <br>
 **Materials**
 <ul>
-<li><a href="http://JhengLu.github.io/files/paper2.pdf">PDF</a></li>
+<li><a href="https://iopscience.iop.org/article/10.1088/1742-6596/2171/1/012001">Paper</a></li>
 <li><a href="https://github.com/JhengLu/Cause-Effect-Relation-Extraction-from-Text-of-Financial-Events">Code</a></li>
 </ul>
