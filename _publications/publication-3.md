@@ -13,7 +13,10 @@ transform the original sentences to word-embedding vectors, which then are send 
 the impact of “covariate shift”. For the second input, the original sentences are cut by Chinese cut-word tool ‘jieba’ to get the part-of-speech of words, which are then transformed by
 self-attention mechanism to get global dependencies. The two outputs for word-embedding vectors and part-of-speech of words are combined and then decoded by CRF. Finally, the
 Viterbi algorithm is utilized to get the best sequences. The experiment results validate the effectiveness of the proposed method.
-      
+
+<br>
+<img src='/images/NLP-arch-new.jpg'>
+
 <br>
 **Materials**
 <ul>
