@@ -1,7 +1,7 @@
 ---
 title: "Mercury: QoS-Aware Tiered Memory System"
-excerpt: "<strong>Jiaheng Lu*</strong>, Yiwen Zhang<strong>*<strong>, Hasan Maruf, Minseo Park, Yunxuan Tang, Rita Gupta, Fan Lai, Mosharaf Chowdhury.
-<br>In submission to <em>OSDI</em>, 2024
+excerpt: "<strong>Jiaheng Lu*</strong>, Yiwen Zhang, Hasan Maruf, Minseo Park, Yunxuan Tang, Rita Gupta, Fan Lai, Mosharaf Chowdhury.
+<br>In submission to <em><strong>OSDI<strong></em>, 2024
 <br><strong>*<strong> Equal contribution
 <br>[<a href='#'>Paper</a>], [<a href='#'>Code</a>]"
 collection: publications
