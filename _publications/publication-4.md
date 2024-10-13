@@ -1,7 +1,7 @@
 ---
 title: "Automatic Information Extraction for Financial Events by Integrating BiGRU and Attention Mechanism"
 excerpt: "<strong>Jiaheng Lu</strong> and Weirong Liu. 
-<br><strong>Journal of Physics: Conference Series, International Conference on Computer, Big Data and Artificial Intelligence</strong>, 2022
+<br><strong><em>Journal of Physics: Conference Series, International Conference on Computer, Big Data and Artificial Intelligence</em></strong>, 2022
 <br>[<a href='https://iopscience.iop.org/article/10.1088/1742-6596/2171/1/012001'>Paper</a>], [<a href='https://github.com/JhengLu/Cause-Effect-Relation-Extraction-from-Text-of-Financial-Events'>Code</a>]"
 collection: publications
 ---

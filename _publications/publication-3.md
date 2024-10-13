@@ -1,7 +1,7 @@
 ---
 title: "MLM-WR: A Swarm Intelligence-based Cloud-Edge-Terminal Collaboration Data Collection Scheme in The Era of AIoT"
 excerpt: "<strong>Jiaheng Lu</strong>, Zhenze Qu, Anfeng Liu, Shaobo Zhang, Neal N. Xiong. 
-<br><strong>IEEE Internet of Things Journal</strong>, 2023
+<br><strong><em>IEEE Internet of Things Journal</em></strong>, 2023
 <br>[<a href='https://ieeexplore.ieee.org/document/10234647'>Paper</a>], [<a href='https://github.com/JhengLu/MLM-WR'>Code</a>]"
 collection: publications
 ---
