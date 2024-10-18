@@ -18,7 +18,7 @@ OpenInfra is a co-simulation framework for simulating the infrastructure nexus, 
 <br>
 **Materials**
 <ul>
-<li><a href="https://hotinfra24.github.io/">Paper</a></li>
+<li><a href="https://hotinfra24.github.io/papers/hotinfra24-final1.pdf">Paper</a></li>
 <li><a href="https://github.com/JhengLu/OpenInfra">Code</a></li>
 </ul>
 
