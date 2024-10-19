@@ -13,8 +13,7 @@ collection: publications
 [//]: # (<br>[[Paper]&#40;https://hotinfra24.github.io/&#41;], [[Code]&#40;https://github.com/JhengLu/OpenInfra&#41;])
 
 <h2>Abstract</h2>
-OpenInfra is a co-simulation framework for simulating the infrastructure nexus, like the datacenter/energy nexus, datacenter/water nexus, water/energy nexus.
-
+Critical infrastructures like datacenters, power grids, and water systems are interdependent, forming complex "infrastructure nexuses" that require co-optimization for efficiency, resilience, and sustainability. We present OpenInfra, a co-simulation framework designed to model these interdependencies by integrating domain-specific simulators for datacenters, power grids, and cooling systems but focusing on stitching them together for end-to-end experimentation. OpenInfra enables seamless integration of diverse simulators and flexible configuration of infrastructure interactions. Our evaluation demonstrates its ability to simulate large-scale infrastructure dynamics, including 7,392 servers over 100+ hours.
 <br>
 **Materials**
 <ul>
