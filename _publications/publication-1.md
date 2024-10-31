@@ -27,6 +27,9 @@ It leverages a novel admission control and real-time adaptation algorithm to max
 Evaluations with real-world applications show that Mercury can provide QoS guarantees among multiple applications sharing a tiered memory system with up to 53.4% improvement in performance.
 
 <br>
+<img src='/images/mercury_overview.png'>
+<p><center><b>Architecture</b></center></p>
+
 **Materials**
 <ul>
 <li><a href="#">Paper</a></li>

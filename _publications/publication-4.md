@@ -24,7 +24,8 @@ Viterbi algorithm is utilized to get the best sequences. The experiment results 
 <br>
 <img src='/images/NLP-arch-new.jpg'>
 
-<br>
+<p><center><b>Architecture</b></center></p>
+
 **Materials**
 <ul>
 <li><a href="https://iopscience.iop.org/article/10.1088/1742-6596/2171/1/012001">Paper</a></li>

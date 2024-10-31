@@ -15,6 +15,9 @@ collection: publications
 <h2>Abstract</h2>
 Critical infrastructures like datacenters, power grids, and water systems are interdependent, forming complex "infrastructure nexuses" that require co-optimization for efficiency, resilience, and sustainability. We present OpenInfra, a co-simulation framework designed to model these interdependencies by integrating domain-specific simulators for datacenters, power grids, and cooling systems but focusing on stitching them together for end-to-end experimentation. OpenInfra enables seamless integration of diverse simulators and flexible configuration of infrastructure interactions. Our evaluation demonstrates its ability to simulate large-scale infrastructure dynamics, including 7,392 servers over 100+ hours.
 <br>
+<img src='/images/openinfra-overview.png'>
+<p><center><b>Architecture</b></center></p>
+
 **Materials**
 <ul>
 <li><a href="https://hotinfra24.github.io/papers/hotinfra24-final1.pdf">Paper</a></li>
