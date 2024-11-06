@@ -23,5 +23,6 @@ Critical infrastructures like datacenters, power grids, and water systems are in
 <ul>
 <li><a href="https://hotinfra24.github.io/papers/hotinfra24-final1.pdf">Paper</a></li>
 <li><a href="https://github.com/JhengLu/OpenInfra">Code</a></li>
+<li><a href="/files/OpenInfra-HotInfra-24-slides.pdf">Slides</a></li>
 </ul>
 
