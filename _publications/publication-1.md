@@ -15,19 +15,10 @@ collection: publications
 
 [//]: # (<br>[[Paper]&#40;#&#41;], [[Code]&#40;#&#41;])
 <h2>Abstract</h2>
-Tiered memory systems have widely been adopted to provide larger memory capacity in response to increasing memory demands from memory-intensive workloads.
-Although increased memory capacity allows more applications to be deployed, existing solutions for tiered memory systems are not built with Quality-of-Service (QoS) support.
-As a result, they often cannot meet service-level objectives (SLOs) when multiple applications share a tiered memory system.
-Specifically, applications suffer from **local memory contention** and **memory bandwidth interference**, two sources of performance unpredictability unique to tiered memory systems.
-Indeed, we observe application performance drops by 43% and 70% during severe memory contention and interference.
-
-This paper presents Mercury, a QoS-aware tiered memory system that provides predictable performance for coexisting memory-intensive applications, each with different SLOs.
-Mercury enables per-tier page reclamation to enforce application-level resource management.
-It leverages a novel admission control and real-time adaptation algorithm to maximize local memory utilization while mitigating memory interference.
-Evaluations with real-world applications show that Mercury can provide QoS guarantees among multiple applications sharing a tiered memory system with up to 53.4% improvement in performance.
-
+Memory tiering has received wide adoption in recent years as an effective solution to address the increasing memory demands of memory-intensive workloads. However, existing tiered memory systems often fail to meet service-level objectives (SLOs) when multiple applications share the system because they lack Quality-of-Service (QoS) support. Consequently, applications suffer severe performance drops due to local memory contention and memory bandwidth interference.
+In this paper, we present Mercury, a QoS-aware tiered memory system that ensures predictable performance for coexisting memory-intensive applications with different SLOs. Mercury enables per-tier page reclamation for application-level resource management and uses a proactive admission control algorithm to satisfy SLOs via per-tier memory capacity allocation and intra- and inter-tier bandwidth interference mitigation. It reacts to dynamic requirement changes via real-time adaptation. Extensive evaluations show that Mercury improves application performance by up to 53.4% and 20.3% compared to TPP and Colloid, respectively.
 <br>
-<img src='/images/mercury_overview.png'>
+<img src='/images/mercury_overview_new.pdf'>
 <p><center><b>Architecture</b></center></p>
 
 **Materials**
