@@ -32,7 +32,7 @@ Evaluations with real-world applications show that Mercury can provide QoS guara
 
 **Materials**
 <ul>
-<li><a href="/files/Mercury.pdf">Paper</a></li>
+<li><a href="https://arxiv.org/abs/2412.08938">Paper</a></li>
 <li><a href="https://github.com/SymbioticLab/Mercury">Code</a></li>
 </ul>
 
