@@ -18,7 +18,7 @@ collection: publications
 Memory tiering has received wide adoption in recent years as an effective solution to address the increasing memory demands of memory-intensive workloads. However, existing tiered memory systems often fail to meet service-level objectives (SLOs) when multiple applications share the system because they lack Quality-of-Service (QoS) support. Consequently, applications suffer severe performance drops due to local memory contention and memory bandwidth interference.
 In this paper, we present Mercury, a QoS-aware tiered memory system that ensures predictable performance for coexisting memory-intensive applications with different SLOs. Mercury enables per-tier page reclamation for application-level resource management and uses a proactive admission control algorithm to satisfy SLOs via per-tier memory capacity allocation and intra- and inter-tier bandwidth interference mitigation. It reacts to dynamic requirement changes via real-time adaptation. Extensive evaluations show that Mercury improves application performance by up to 53.4% and 20.3% compared to TPP and Colloid, respectively.
 <br>
-<img src='/images/mercury_overview_new.pdf'>
+<img src='/images/mercury_overview_new.png'>
 <p><center><b>Architecture</b></center></p>
 
 **Materials**
