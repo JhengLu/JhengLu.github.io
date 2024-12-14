@@ -4,7 +4,7 @@ excerpt: "<strong>Jiaheng Lu</strong>, Yunming Xiao, Shmeelok Chakraborty, Silve
 <br><em><strong>HotInfra @ SOSP</strong></em>, 2024
 <br>[<a href='https://hotinfra24.github.io/papers/hotinfra24-final1.pdf'>Paper</a>], 
 [<a href='https://github.com/JhengLu/OpenInfra'>Code</a>],
-[<a href='/files/OpenInfra-HotInfra-24-slides.pdf'>Slides</a>]"
+[<a href='/files/OpenInfra-HotInfra-24-slides.pdf'>Talk</a>]"
 collection: publications
 ---
 
@@ -25,6 +25,6 @@ Critical infrastructures like datacenters, power grids, and water systems are in
 <ul>
 <li><a href="https://hotinfra24.github.io/papers/hotinfra24-final1.pdf">Paper</a></li>
 <li><a href="https://github.com/JhengLu/OpenInfra">Code</a></li>
-<li><a href="/files/OpenInfra-HotInfra-24-slides.pdf">Slides</a></li>
+<li><a href="/files/OpenInfra-HotInfra-24-slides.pdf">Talk</a></li>
 </ul>
 
