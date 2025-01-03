@@ -10,7 +10,7 @@ redirect_from:
   
 Hello!
 
-I'm Jiaheng Lu, a second-year master's student at the University of Michigan, Ann Arbor, majoring in Electrical and Computer Engineering. My research interests include disaggregated memory, Machine Learning systems and cloud infrastructure management.
+I'm Jiaheng Lu, a second-year master's student at the University of Michigan, Ann Arbor, majoring in Electrical and Computer Engineering. My research interests include disaggregated memory, Machine Learning systems, and cloud infrastructure management.
 
 I'm fortunate to work with [Prof. Mosharaf Chowdhury](https://symbioticlab.org/people/) on the [CXL-enabled QoS-aware tiered memory system](https://arxiv.org/abs/2412.08938), and with [Prof. Ang Chen](https://web.eecs.umich.edu/~chenang/) on a [co-simulation framework for the infrastructure nexus](https://hotinfra24.github.io/papers/hotinfra24-final1.pdf).
 
