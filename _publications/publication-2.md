@@ -2,7 +2,7 @@
 title: "DynamicWebArena: Evaluating Browser Agents in Dynamic and Temporally Evolving Full-Stack Environments"
 excerpt: "<strong>Jiaheng Lu</strong>, Xian Wang, Shrishti Roy, Colin Zhao, Sidharth Sankhe, Chuyue Wang, Xuting Liu, Spyros Pavlatos, Linh Phan, Vincent Liu.
 <br>In submission to <em><strong>NeurIPS</strong></em>, 2026
-<br>[<a href='/files/dynamicwebarena.pdf'>Paper</a>]"
+<br>[<a href='/files/dynamicwebarena.pdf'>Paper</a>], [<a href=''>Code</a>]"
 collection: publications
 ---
 
