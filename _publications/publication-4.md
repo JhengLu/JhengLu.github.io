@@ -1,28 +1,30 @@
 ---
-title: "MLM-WR: A Swarm Intelligence-based Cloud-Edge-Terminal Collaboration Data Collection Scheme in The Era of AIoT"
-excerpt: "<strong>Jiaheng Lu</strong>, Zhenze Qu, Anfeng Liu, Shaobo Zhang, Neal N. Xiong. 
-<br><em><strong>IEEE Internet of Things Journal</strong></em>, 2023
-<br>[<a href='https://ieeexplore.ieee.org/document/10234647'>Paper</a>], [<a href='https://github.com/JhengLu/MLM-WR'>Code</a>]"
+title: "OpenInfra: A Co-simulation Framework for the Infrastructure Nexus"
+excerpt: "<strong>Jiaheng Lu</strong>, Yunming Xiao, Shmeelok Chakraborty, Silvery Fu, Yoon Sung Ji, Ang Chen, Mosharaf Chowdhury, Nalini Rao, Sylvia Ratnasamy, Xinyu Wang. 
+<br><em><strong>HotInfra @ SOSP</strong></em>, 2024
+<br>[<a href='https://hotinfra24.github.io/papers/hotinfra24-final1.pdf'>Paper</a>], 
+[<a href='https://github.com/JhengLu/OpenInfra'>Code</a>],
+[<a href='/files/OpenInfra-HotInfra-24-slides.pdf'>Presentation</a>]"
 collection: publications
 ---
 
-[//]: # (**Jiaheng Lu**, Zhenze Qu, Anfeng Liu, Shaobo Zhang, Neal N. Xiong.)
+[//]: # (**Jiaheng Lu**, Yunming Xiao, Shmeelok Chakraborty, Silvery Fu, Yoon Sung Ji, Ang Chen, Mosharaf Chowdhury, Nalini Rao, Sylvia Ratnasamy, Xinyu Wang.)
 
-[//]: # (<br>*IEEE Internet of Things Journal*, 2023)
+[//]: # (<br>*HotInfra &#40;SOSP Workshop&#41;*, 2024)
 
-[//]: # (<br>[[Paper]&#40;https://ieeexplore.ieee.org/document/10234647&#41;], [[Code]&#40;https://github.com/JhengLu/MLM-WR&#41;])
-
+[//]: # (<br>[[Paper]&#40;https://hotinfra24.github.io/&#41;], [[Code]&#40;https://github.com/JhengLu/OpenInfra&#41;])
 
 <h2>Abstract</h2>
-Mobile Crowd Sensing (MCS) is a cloud-edge-terminal collaboration model that relies on edge terminal devices, or “workers,” to sense data and build applications for cloud-hosted platforms. However, to ensure high-quality application development, recruiting truthful workers in the edge network is crucial. With the emergence of Artificial Intelligence (AI), the Internet of Things (IoT) is entering a new era, known as Artificial Intelligence of Things (AIoT). This paper proposes an AI-enabled MCS system, which includes MLM-WR, a cloud-edge-terminal collaboration data collection scheme for AIoT. MLM-WR leverages swarm intelligence to match truthful workers with sensing tasks, enabling efficient and effective data collection for AIoT applications. The matching theory is applied from two perspectives: truthful workers discovery and sensing difference discovery. To identify truthful workers, we adjust their credibility based on the deviation of their sensing data with Ground Truth Data (GTD) obtained through collaboration with the Unmanned Aerial Vehicle (UAV). In the sensing difference discovery, we obtain workers’ sensing attribute reliability by calculating attribute data errors and incorporate absolute and relative sensing location preferences to determine workers’ sensing quality at different locations. Additionally, MLM-WR employs the Particle Swarm Optimization (PSO) algorithm to assign workers while considering sensing attribute and location reliability and recruitment cost, thus addressing the tradeoff between recruitment cost and data quality. The effectiveness of our approach is demonstrated through extensive evaluations, where MLM-WR outperformed the state-of-the-art approaches.
+Critical infrastructures like datacenters, power grids, and water systems are interdependent, forming complex "infrastructure nexuses" that require co-optimization for efficiency, resilience, and sustainability. We present OpenInfra, a co-simulation framework designed to model these interdependencies by integrating domain-specific simulators for datacenters, power grids, and cooling systems but focusing on stitching them together for end-to-end experimentation. OpenInfra enables seamless integration of diverse simulators and flexible configuration of infrastructure interactions. Our evaluation demonstrates its ability to simulate large-scale infrastructure dynamics, including 7,392 servers over 100+ hours.
 
 <br>
-<img src='/images/MCS.png'>
+<img src='/images/openinfra-overview.png'>
 <p><center><b>Architecture</b></center></p>
 
 **Materials**
 <ul>
-<li><a href="https://ieeexplore.ieee.org/document/10234647">Paper</a></li>
-<li><a href="https://github.com/JhengLu/MLM-WR">Code</a></li>
+<li><a href="https://hotinfra24.github.io/papers/hotinfra24-final1.pdf">Paper</a></li>
+<li><a href="https://github.com/JhengLu/OpenInfra">Code</a></li>
+<li><a href="/files/OpenInfra-HotInfra-24-slides.pdf">Presentation</a></li>
 </ul>
 
