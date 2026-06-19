@@ -1,30 +1,29 @@
 ---
-title: "OpenInfra: A Co-simulation Framework for the Infrastructure Nexus"
-excerpt: "<strong>Jiaheng Lu</strong>, Yunming Xiao, Shmeelok Chakraborty, Silvery Fu, Yoon Sung Ji, Ang Chen, Mosharaf Chowdhury, Nalini Rao, Sylvia Ratnasamy, Xinyu Wang. 
-<br><em><strong>HotInfra @ SOSP</strong></em>, 2024
-<br>[<a href='https://hotinfra24.github.io/papers/hotinfra24-final1.pdf'>Paper</a>], 
-[<a href='https://github.com/JhengLu/OpenInfra'>Code</a>],
-[<a href='/files/OpenInfra-HotInfra-24-slides.pdf'>Presentation</a>]"
+title: "Mercury: QoS-Aware Tiered Memory System"
+excerpt: "<strong>Jiaheng Lu*</strong>, Yiwen Zhang*, Hasan Al Maruf, Minseo Park, Yunxuan Tang, Fan Lai, Mosharaf Chowdhury.
+<br>In submission to <em><strong>NSDI</strong></em>, 2026
+<br>*Equal contribution
+<br>[<a href='https://arxiv.org/abs/2412.08938'>Paper</a>], [<a href='https://github.com/SymbioticLab/Mercury'>Code</a>]"
 collection: publications
 ---
 
-[//]: # (**Jiaheng Lu**, Yunming Xiao, Shmeelok Chakraborty, Silvery Fu, Yoon Sung Ji, Ang Chen, Mosharaf Chowdhury, Nalini Rao, Sylvia Ratnasamy, Xinyu Wang.)
+[//]: # (<b>Jiaheng Lu*</b>, Yiwen Zhang, Hasan Maruf, Minseo Park, Yunxuan Tang, Rita Gupta, Fan Lai, Mosharaf Chowdhury.)
 
-[//]: # (<br>*HotInfra &#40;SOSP Workshop&#41;*, 2024)
+[//]: # (<br>In submission to <em>OSDI</em>, 2025)
 
-[//]: # (<br>[[Paper]&#40;https://hotinfra24.github.io/&#41;], [[Code]&#40;https://github.com/JhengLu/OpenInfra&#41;])
+[//]: # (<br>* Equal contribution)
 
+[//]: # (<br>[[Paper]&#40;#&#41;], [[Code]&#40;#&#41;])
 <h2>Abstract</h2>
-Critical infrastructures like datacenters, power grids, and water systems are interdependent, forming complex "infrastructure nexuses" that require co-optimization for efficiency, resilience, and sustainability. We present OpenInfra, a co-simulation framework designed to model these interdependencies by integrating domain-specific simulators for datacenters, power grids, and cooling systems but focusing on stitching them together for end-to-end experimentation. OpenInfra enables seamless integration of diverse simulators and flexible configuration of infrastructure interactions. Our evaluation demonstrates its ability to simulate large-scale infrastructure dynamics, including 7,392 servers over 100+ hours.
-
+Memory tiering has received wide adoption in recent years as an effective solution to address the increasing memory demands of memory-intensive workloads. However, existing tiered memory systems often fail to meet service-level objectives (SLOs) when multiple applications share the system because they lack Quality-of-Service (QoS) support. Consequently, applications suffer severe performance drops due to local memory contention and memory bandwidth interference.
+In this paper, we present Mercury, a QoS-aware tiered memory system that ensures predictable performance for coexisting memory-intensive applications with different SLOs. Mercury enables per-tier page reclamation for application-level resource management and uses a proactive admission control algorithm to satisfy SLOs via per-tier memory capacity allocation and intra- and inter-tier bandwidth interference mitigation. It reacts to dynamic requirement changes via real-time adaptation. Extensive evaluations show that Mercury improves application performance by up to 53.4% and 20.3% compared to TPP and Colloid, respectively.
 <br>
-<img src='/images/openinfra-overview.png'>
+<img src='/images/mercury_overview_new.png'>
 <p><center><b>Architecture</b></center></p>
 
 **Materials**
 <ul>
-<li><a href="https://hotinfra24.github.io/papers/hotinfra24-final1.pdf">Paper</a></li>
-<li><a href="https://github.com/JhengLu/OpenInfra">Code</a></li>
-<li><a href="/files/OpenInfra-HotInfra-24-slides.pdf">Presentation</a></li>
+<li><a href="https://arxiv.org/abs/2412.08938">Paper</a></li>
+<li><a href="https://github.com/SymbioticLab/Mercury">Code</a></li>
 </ul>
 
