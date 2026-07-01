@@ -2,7 +2,7 @@
 title: "Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns"
 excerpt: "Shiqi He, Yue Cui, Feijie Wu, Xinyu Ma, <strong>Jiaheng Lu</strong>, Yaliang Li, Bolin Ding, Mosharaf Chowdhury.
 <br>In submission to <em><strong>NeurIPS</strong></em>, 2026
-<br>[<a href=''>Paper</a>], [<a href=''>Code</a>]"
+<br>[<a href='https://arxiv.org/pdf/2606.17645'>Paper</a>], [<a href=''>Code</a>]"
 collection: publications
 ---
 
