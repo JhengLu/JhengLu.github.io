@@ -15,3 +15,5 @@ System Research Group
 **Microsoft**  
 May 2025 – Aug 2025 · Beijing, China  
 Systems and Networking Research Group
+
+Worked on memory-balanced pipeline parallelism for LLM pretraining.
