@@ -6,7 +6,7 @@ author_profile: true
 
 ## Student Researcher
 **Google** · Full-time  
-May 2026 – Present · Seattle, Washington  
+May 2026 – Present · Seattle, Washington, USA  
 System Research Group
 
 Working on state management of RL post-training systems.
