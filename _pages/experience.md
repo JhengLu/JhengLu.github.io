@@ -9,6 +9,8 @@ author_profile: true
 May 2026 – Present · Seattle, Washington  
 System Research Group
 
+Working on state management of RL post-training systems.
+
 ---
 
 ## Research Intern
