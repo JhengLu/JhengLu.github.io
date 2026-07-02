@@ -14,7 +14,7 @@ Working on state management of RL post-training systems.
 ---
 
 ## Research Intern
-**Microsoft**  
+**Microsoft** · Full-time   
 May 2025 – Aug 2025 · Beijing, China  
 Systems and Networking Research Group
 
