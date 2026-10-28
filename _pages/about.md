@@ -10,7 +10,7 @@ redirect_from:
   
 Hello!
 
-I'm Jiaheng Lu, a first-year PhD student at the University of Pennsylvania, fortunate to be advised by [Prof. Vincent Liu](https://vincen.tl/). My research interest is full stack machine learning systems.
+I'm Jiaheng Lu, a second-year PhD student at the University of Pennsylvania, fortunate to be advised by [Prof. Vincent Liu](https://vincen.tl/). My research interest is full stack machine learning systems.
 
 I was also fortunate to work with [Prof. Mosharaf Chowdhury](https://symbioticlab.org/people/) on the [CXL-enabled QoS-aware tiered memory system](https://arxiv.org/abs/2412.08938), and with [Prof. Ang Chen](https://web.eecs.umich.edu/~chenang/) on a [co-simulation framework for the infrastructure nexus](https://hotinfra24.github.io/papers/hotinfra24-final1.pdf) during my master's at the University of Michigan.
 
